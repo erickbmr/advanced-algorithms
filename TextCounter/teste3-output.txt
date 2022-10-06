@@ -1,0 +1,1816 @@
+Parágrafo
+Linha inicial do parágrafo: 3
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 1
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 6
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 9
+Número de stop words: 1
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 12
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 37
+Número de stop words: 6
+
+Repetição
+Palavra: apresentação - Distância: 38
+
+Repetição
+Palavra: como - Distância: 11
+
+Repetição
+Palavra: forma - Distância: 16
+
+Repetição
+Palavra: para - Distância: 30
+
+Repetição
+Palavra: preparar - Distância: 30
+
+Repetição
+Palavra: se - Distância: 30
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 23
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 14
+Número de stop words: 7
+
+Sentença
+Número de palavras: 13
+Número de stop words: 1
+
+Sentença
+Número de palavras: 16
+Número de stop words: 5
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 32
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 15
+Número de stop words: 7
+
+Sentença
+Número de palavras: 16
+Número de stop words: 4
+
+Sentença
+Número de palavras: 13
+Número de stop words: 6
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 41
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Sentença
+Número de palavras: 21
+Número de stop words: 8
+
+Sentença
+Número de palavras: 13
+Número de stop words: 4
+
+Sentença
+Número de palavras: 13
+Número de stop words: 6
+
+Sentença
+Número de palavras: 16
+Número de stop words: 3
+
+Repetição
+Palavra: por - Distância: 6
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 55
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 18
+Número de stop words: 5
+
+Sentença
+Número de palavras: 25
+Número de stop words: 7
+
+Sentença
+Número de palavras: 12
+Número de stop words: 2
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 65
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 19
+Número de stop words: 8
+
+Sentença
+Número de palavras: 14
+Número de stop words: 5
+
+Sentença
+Número de palavras: 14
+Número de stop words: 4
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Repetição
+Palavra: ser - Distância: 5
+
+Repetição
+Palavra: qualquer - Distância: 10
+
+Repetição
+Palavra: é - Distância: 52
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 79
+Número de sentenças: 2
+
+Sentença
+Número de palavras: 16
+Número de stop words: 5
+
+Sentença
+Número de palavras: 29
+Número de stop words: 4
+
+Repetição
+Palavra: para - Distância: 14
+
+Repetição
+Palavra: tempo - Distância: 8
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 88
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 34
+Número de stop words: 7
+
+Sentença
+Número de palavras: 7
+Número de stop words: 2
+
+Sentença
+Número de palavras: 28
+Número de stop words: 9
+
+Sentença
+Número de palavras: 20
+Número de stop words: 4
+
+Repetição
+Palavra: que - Distância: 7
+
+Repetição
+Palavra: tem - Distância: 9
+
+Repetição
+Palavra: ao - Distância: 5
+
+Repetição
+Palavra: tempo - Distância: 9
+
+Repetição
+Palavra: para - Distância: 34
+
+Repetição
+Palavra: se - Distância: 64
+
+Repetição
+Palavra: tempo - Distância: 9
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 103
+Número de sentenças: 2
+
+Sentença
+Número de palavras: 12
+Número de stop words: 4
+
+Sentença
+Número de palavras: 11
+Número de stop words: 2
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 114
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 9
+Número de stop words: 5
+
+Sentença
+Número de palavras: 8
+Número de stop words: 2
+
+Sentença
+Número de palavras: 21
+Número de stop words: 7
+
+Sentença
+Número de palavras: 15
+Número de stop words: 6
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Repetição
+Palavra: é - Distância: 22
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 126
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 129
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 11
+Número de stop words: 2
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Sentença
+Número de palavras: 20
+Número de stop words: 5
+
+Sentença
+Número de palavras: 17
+Número de stop words: 7
+
+Sentença
+Número de palavras: 17
+Número de stop words: 2
+
+Repetição
+Palavra: que - Distância: 46
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 141
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 25
+Número de stop words: 1
+
+Repetição
+Palavra: mais - Distância: 19
+
+Repetição
+Palavra: que - Distância: 13
+
+Repetição
+Palavra: se - Distância: 8
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 147
+Número de sentenças: 2
+
+Sentença
+Número de palavras: 18
+Número de stop words: 3
+
+Sentença
+Número de palavras: 21
+Número de stop words: 7
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 155
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 5
+Número de stop words: 2
+
+Sentença
+Número de palavras: 20
+Número de stop words: 5
+
+Sentença
+Número de palavras: 19
+Número de stop words: 5
+
+Sentença
+Número de palavras: 8
+Número de stop words: 2
+
+Repetição
+Palavra: se - Distância: 7
+
+Repetição
+Palavra: está - Distância: 5
+
+Repetição
+Palavra: se - Distância: 7
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 164
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 13
+Número de stop words: 4
+
+Sentença
+Número de palavras: 8
+Número de stop words: 3
+
+Sentença
+Número de palavras: 16
+Número de stop words: 4
+
+Repetição
+Palavra: tempo - Distância: 11
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 171
+Número de sentenças: 2
+
+Sentença
+Número de palavras: 21
+Número de stop words: 5
+
+Sentença
+Número de palavras: 11
+Número de stop words: 3
+
+Repetição
+Palavra: está - Distância: 17
+
+Repetição
+Palavra: que - Distância: 13
+
+Repetição
+Palavra: se - Distância: 13
+
+Repetição
+Palavra: sendo - Distância: 10
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 178
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 13
+Número de stop words: 3
+
+Sentença
+Número de palavras: 17
+Número de stop words: 5
+
+Sentença
+Número de palavras: 11
+Número de stop words: 3
+
+Sentença
+Número de palavras: 19
+Número de stop words: 4
+
+Repetição
+Palavra: que - Distância: 10
+
+Repetição
+Palavra: apresente - Distância: 4
+
+Repetição
+Palavra: seus - Distância: 26
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 188
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 191
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 11
+Número de stop words: 0
+
+Sentença
+Número de palavras: 11
+Número de stop words: 2
+
+Sentença
+Número de palavras: 11
+Número de stop words: 1
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 198
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 4
+Número de stop words: 2
+
+Sentença
+Número de palavras: 15
+Número de stop words: 5
+
+Sentença
+Número de palavras: 20
+Número de stop words: 3
+
+Sentença
+Número de palavras: 5
+Número de stop words: 0
+
+Repetição
+Palavra: ao - Distância: 7
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 206
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 209
+Número de sentenças: 7
+
+Sentença
+Número de palavras: 5
+Número de stop words: 1
+
+Sentença
+Número de palavras: 7
+Número de stop words: 3
+
+Sentença
+Número de palavras: 15
+Número de stop words: 3
+
+Sentença
+Número de palavras: 10
+Número de stop words: 0
+
+Sentença
+Número de palavras: 10
+Número de stop words: 1
+
+Sentença
+Número de palavras: 19
+Número de stop words: 6
+
+Sentença
+Número de palavras: 8
+Número de stop words: 1
+
+Repetição
+Palavra: não - Distância: 63
+
+Repetição
+Palavra: ser - Distância: 9
+
+Repetição
+Palavra: seu - Distância: 13
+
+Repetição
+Palavra: trabalho - Distância: 13
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 221
+Número de sentenças: 8
+
+Sentença
+Número de palavras: 7
+Número de stop words: 3
+
+Sentença
+Número de palavras: 6
+Número de stop words: 1
+
+Sentença
+Número de palavras: 13
+Número de stop words: 2
+
+Sentença
+Número de palavras: 7
+Número de stop words: 1
+
+Sentença
+Número de palavras: 10
+Número de stop words: 1
+
+Sentença
+Número de palavras: 9
+Número de stop words: 3
+
+Sentença
+Número de palavras: 11
+Número de stop words: 1
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Repetição
+Palavra: para - Distância: 43
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 232
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 235
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 12
+Número de stop words: 2
+
+Sentença
+Número de palavras: 7
+Número de stop words: 2
+
+Sentença
+Número de palavras: 9
+Número de stop words: 3
+
+Sentença
+Número de palavras: 10
+Número de stop words: 2
+
+Sentença
+Número de palavras: 17
+Número de stop words: 3
+
+Repetição
+Palavra: idioma - Distância: 3
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 244
+Número de sentenças: 6
+
+Sentença
+Número de palavras: 8
+Número de stop words: 3
+
+Sentença
+Número de palavras: 19
+Número de stop words: 3
+
+Sentença
+Número de palavras: 10
+Número de stop words: 2
+
+Sentença
+Número de palavras: 12
+Número de stop words: 3
+
+Sentença
+Número de palavras: 9
+Número de stop words: 3
+
+Sentença
+Número de palavras: 8
+Número de stop words: 2
+
+Repetição
+Palavra: se - Distância: 16
+
+Repetição
+Palavra: não - Distância: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 255
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 258
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 8
+Número de stop words: 4
+
+Sentença
+Número de palavras: 19
+Número de stop words: 5
+
+Sentença
+Número de palavras: 11
+Número de stop words: 2
+
+Sentença
+Número de palavras: 21
+Número de stop words: 4
+
+Sentença
+Número de palavras: 10
+Número de stop words: 3
+
+Repetição
+Palavra: para - Distância: 5
+
+Repetição
+Palavra: algum - Distância: 13
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 269
+Número de sentenças: 5
+
+Sentença
+Número de palavras: 6
+Número de stop words: 3
+
+Sentença
+Número de palavras: 13
+Número de stop words: 2
+
+Sentença
+Número de palavras: 14
+Número de stop words: 3
+
+Sentença
+Número de palavras: 12
+Número de stop words: 2
+
+Sentença
+Número de palavras: 13
+Número de stop words: 3
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 279
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 282
+Número de sentenças: 4
+
+Sentença
+Número de palavras: 6
+Número de stop words: 1
+
+Sentença
+Número de palavras: 13
+Número de stop words: 3
+
+Sentença
+Número de palavras: 12
+Número de stop words: 3
+
+Sentença
+Número de palavras: 17
+Número de stop words: 3
+
+Repetição
+Palavra: para - Distância: 11
+
+Repetição
+Palavra: para - Distância: 11
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 291
+Número de sentenças: 7
+
+Sentença
+Número de palavras: 21
+Número de stop words: 4
+
+Sentença
+Número de palavras: 6
+Número de stop words: 2
+
+Sentença
+Número de palavras: 4
+Número de stop words: 2
+
+Sentença
+Número de palavras: 12
+Número de stop words: 2
+
+Sentença
+Número de palavras: 6
+Número de stop words: 2
+
+Sentença
+Número de palavras: 8
+Número de stop words: 3
+
+Sentença
+Número de palavras: 11
+Número de stop words: 2
+
+Repetição
+Palavra: sua - Distância: 15
+
+Repetição
+Palavra: apontar - Distância: 9
+
+Repetição
+Palavra: não - Distância: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 303
+Número de sentenças: 7
+
+Sentença
+Número de palavras: 11
+Número de stop words: 5
+
+Sentença
+Número de palavras: 20
+Número de stop words: 6
+
+Sentença
+Número de palavras: 10
+Número de stop words: 1
+
+Sentença
+Número de palavras: 13
+Número de stop words: 1
+
+Sentença
+Número de palavras: 8
+Número de stop words: 2
+
+Sentença
+Número de palavras: 20
+Número de stop words: 3
+
+Sentença
+Número de palavras: 12
+Número de stop words: 5
+
+Repetição
+Palavra: se - Distância: 0
+
+Repetição
+Palavra: mais - Distância: 6
+
+Repetição
+Palavra: sua - Distância: 9
+
+Repetição
+Palavra: para - Distância: 40
+
+Repetição
+Palavra: são - Distância: 12
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 318
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 325
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 12
+Número de stop words: 3
+
+Sentença
+Número de palavras: 11
+Número de stop words: 5
+
+Sentença
+Número de palavras: 11
+Número de stop words: 3
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 333
+Número de sentenças: 2
+
+Sentença
+Número de palavras: 26
+Número de stop words: 5
+
+Sentença
+Número de palavras: 16
+Número de stop words: 4
+
+Repetição
+Palavra: para - Distância: 10
+
+Repetição
+Palavra: que - Distância: 30
+
+Repetição
+Palavra: para - Distância: 10
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 341
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 15
+Número de stop words: 5
+
+Sentença
+Número de palavras: 7
+Número de stop words: 1
+
+Sentença
+Número de palavras: 21
+Número de stop words: 2
+
+Repetição
+Palavra: minutos - Distância: 8
+
+Repetição
+Palavra: que - Distância: 27
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 349
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 8
+Número de stop words: 1
+
+Sentença
+Número de palavras: 12
+Número de stop words: 5
+
+Sentença
+Número de palavras: 4
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 360
+Número de sentenças: 1
+
+Sentença
+Número de palavras: 3
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 363
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 3
+Número de stop words: 0
+
+Sentença
+Número de palavras: 17
+Número de stop words: 0
+
+Sentença
+Número de palavras: 1
+Número de stop words: 0
+
+Repetição
+Palavra: of - Distância: 10
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 368
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 3
+Número de stop words: 0
+
+Sentença
+Número de palavras: 12
+Número de stop words: 2
+
+Sentença
+Número de palavras: 5
+Número de stop words: 0
+
+--------------------------------------------------------
+Parágrafo
+Linha inicial do parágrafo: 376
+Número de sentenças: 3
+
+Sentença
+Número de palavras: 1
+Número de stop words: 1
+
+Sentença
+Número de palavras: 15
+Número de stop words: 4
+
+Sentença
+Número de palavras: 14
+Número de stop words: 7
+
+Repetição
+Palavra: ciências - Distância: 0
+
+Repetição
+Palavra: computação - Distância: 0
+
+Repetição
+Palavra: são - Distância: 0
+
+--------------------------------------------------------
+
+
+
+
+Palavra:  | Contador: 88
+Palavra: - | Contador: 4
+Palavra: 03 | Contador: 1
+Palavra: 1 | Contador: 2
+Palavra: 1994 | Contador: 1
+Palavra: 2 | Contador: 1
+Palavra: 2009 | Contador: 3
+Palavra: 238p | Contador: 1
+Palavra: 3 | Contador: 1
+Palavra: 4 | Contador: 1
+Palavra: 5 | Contador: 1
+Palavra: 6 | Contador: 1
+Palavra: aborrecer | Contador: 1
+Palavra: acabam | Contador: 1
+Palavra: acabar | Contador: 1
+Palavra: academia | Contador: 1
+Palavra: acadêmica | Contador: 1
+Palavra: acadêmicos | Contador: 1
+Palavra: achar | Contador: 1
+Palavra: acontece | Contador: 1
+Palavra: adequadamente | Contador: 3
+Palavra: adequado | Contador: 1
+Palavra: afinal | Contador: 1
+Palavra: agora | Contador: 1
+Palavra: agradeça | Contador: 1
+Palavra: agropecuária | Contador: 1
+Palavra: ajuda | Contador: 1
+Palavra: ajudar | Contador: 1
+Palavra: algo | Contador: 2
+Palavra: algum | Contador: 1
+Palavra: alguma | Contador: 1
+Palavra: alta | Contador: 2
+Palavra: alunos | Contador: 2
+Palavra: além | Contador: 2
+Palavra: ambiente | Contador: 2
+Palavra: amigável | Contador: 1
+Palavra: ampliando | Contador: 1
+Palavra: andando | Contador: 1
+Palavra: andar | Contador: 1
+Palavra: animações | Contador: 2
+Palavra: anotações | Contador: 2
+Palavra: anote | Contador: 2
+Palavra: antecedem | Contador: 2
+Palavra: anterior | Contador: 2
+Palavra: antes | Contador: 7
+Palavra: any | Contador: 1
+Palavra: ao | Contador: 11
+Palavra: aparecem | Contador: 1
+Palavra: aparência | Contador: 1
+Palavra: apoiar | Contador: 1
+Palavra: apontadores | Contador: 2
+Palavra: apontando | Contador: 1
+Palavra: apontar | Contador: 1
+Palavra: apple | Contador: 1
+Palavra: aprenda | Contador: 1
+Palavra: aprendemos | Contador: 1
+Palavra: apresenta | Contador: 1
+Palavra: apresentado | Contador: 3
+Palavra: apresentador | Contador: 6
+Palavra: apresentadoras | Contador: 1
+Palavra: apresentando | Contador: 2
+Palavra: apresentando-os | Contador: 1
+Palavra: apresentar | Contador: 8
+Palavra: apresentação | Contador: 52
+Palavra: apresentações | Contador: 5
+Palavra: apresente | Contador: 1
+Palavra: apresente-se | Contador: 2
+Palavra: apresentá-lo | Contador: 1
+Palavra: apresentá-los | Contador: 2
+Palavra: aprimorar | Contador: 1
+Palavra: aproveitar | Contador: 1
+Palavra: aproveite | Contador: 1
+Palavra: aquele | Contador: 2
+Palavra: aqueles | Contador: 2
+Palavra: aquilo | Contador: 1
+Palavra: arte | Contador: 1
+Palavra: artigo | Contador: 5
+Palavra: aspectos | Contador: 1
+Palavra: assim | Contador: 4
+Palavra: assisti-lo | Contador: 1
+Palavra: assistir | Contador: 1
+Palavra: assunto | Contador: 1
+Palavra: atento | Contador: 1
+Palavra: atenção | Contador: 6
+Palavra: atividade | Contador: 1
+Palavra: atrapalhar | Contador: 2
+Palavra: atrasar | Contador: 1
+Palavra: atrativa | Contador: 1
+Palavra: atualmente | Contador: 1
+Palavra: atuando | Contador: 1
+Palavra: até | Contador: 4
+Palavra: audience | Contador: 1
+Palavra: audiência | Contador: 8
+Palavra: autor | Contador: 1
+Palavra: avaliados | Contador: 1
+Palavra: banca | Contador: 1
+Palavra: banco | Contador: 1
+Palavra: barriga | Contador: 1
+Palavra: bastante | Contador: 1
+Palavra: be | Contador: 1
+Palavra: bem | Contador: 4
+Palavra: boa | Contador: 3
+Palavra: bom | Contador: 3
+Palavra: braços | Contador: 1
+Palavra: brincadeiras | Contador: 2
+Palavra: c | Contador: 1
+Palavra: cabeça | Contador: 1
+Palavra: cada | Contador: 1
+Palavra: cadeiras | Contador: 1
+Palavra: calcular | Contador: 1
+Palavra: calma | Contador: 2
+Palavra: cansar | Contador: 1
+Palavra: capaz | Contador: 1
+Palavra: caprichar | Contador: 1
+Palavra: carlos | Contador: 2
+Palavra: carmine | Contador: 1
+Palavra: carregue | Contador: 1
+Palavra: cartão | Contador: 1
+Palavra: caso | Contador: 2
+Palavra: cativa | Contador: 1
+Palavra: cativar | Contador: 1
+Palavra: cedo | Contador: 1
+Palavra: certa | Contador: 1
+Palavra: certamente | Contador: 1
+Palavra: chamado | Contador: 1
+Palavra: chegar | Contador: 1
+Palavra: chegou | Contador: 1
+Palavra: cintra | Contador: 2
+Palavra: ciências | Contador: 1
+Palavra: clara | Contador: 2
+Palavra: claro | Contador: 4
+Palavra: clientes | Contador: 1
+Palavra: co-autores | Contador: 1
+Palavra: co-fundador | Contador: 1
+Palavra: cobrindo | Contador: 1
+Palavra: colegas | Contador: 6
+Palavra: colocar | Contador: 1
+Palavra: com | Contador: 23
+Palavra: comece | Contador: 1
+Palavra: como | Contador: 12
+Palavra: completa | Contador: 1
+Palavra: complicado | Contador: 1
+Palavra: compreendido | Contador: 1
+Palavra: comprometer | Contador: 1
+Palavra: computador | Contador: 1
+Palavra: computação | Contador: 1
+Palavra: concisa | Contador: 1
+Palavra: conclusão | Contador: 2
+Palavra: condicionamentos | Contador: 1
+Palavra: confecção | Contador: 1
+Palavra: conferência | Contador: 1
+Palavra: conferências | Contador: 1
+Palavra: confiabilidade | Contador: 1
+Palavra: confiante | Contador: 2
+Palavra: confusas | Contador: 1
+Palavra: congresso | Contador: 1
+Palavra: conhecer | Contador: 3
+Palavra: conhecimento | Contador: 3
+Palavra: conjunto | Contador: 2
+Palavra: consegue | Contador: 1
+Palavra: conseguimos | Contador: 1
+Palavra: conseguir | Contador: 2
+Palavra: constrangido | Contador: 1
+Palavra: construiu | Contador: 1
+Palavra: contas | Contador: 1
+Palavra: contexto | Contador: 1
+Palavra: conteúdo | Contador: 8
+Palavra: continue | Contador: 1
+Palavra: controlar | Contador: 2
+Palavra: controle | Contador: 2
+Palavra: contrário | Contador: 1
+Palavra: coordenador | Contador: 1
+Palavra: corpo | Contador: 2
+Palavra: correta | Contador: 1
+Palavra: corretamente | Contador: 3
+Palavra: corrigir | Contador: 2
+Palavra: corrija | Contador: 1
+Palavra: criar | Contador: 1
+Palavra: criativos | Contador: 1
+Palavra: cuidado | Contador: 3
+Palavra: cuidados | Contador: 1
+Palavra: cumprir | Contador: 1
+Palavra: cursa | Contador: 1
+Palavra: dados | Contador: 1
+Palavra: debruçar-se | Contador: 1
+Palavra: dedicar-se | Contador: 1
+Palavra: dedicação | Contador: 1
+Palavra: defendem | Contador: 1
+Palavra: defender | Contador: 1
+Palavra: defesas | Contador: 1
+Palavra: definidas | Contador: 1
+Palavra: definido | Contador: 2
+Palavra: definir | Contador: 1
+Palavra: deixa | Contador: 1
+Palavra: deixar | Contador: 1
+Palavra: deles | Contador: 4
+Palavra: demanda | Contador: 1
+Palavra: demore | Contador: 1
+Palavra: demos | Contador: 1
+Palavra: dentro | Contador: 1
+Palavra: deparamos | Contador: 1
+Palavra: departamento | Contador: 1
+Palavra: depende | Contador: 1
+Palavra: depois | Contador: 4
+Palavra: desanime | Contador: 1
+Palavra: desconhecido | Contador: 1
+Palavra: descrever | Contador: 1
+Palavra: desde | Contador: 2
+Palavra: desenvolvimentos | Contador: 1
+Palavra: deslizes | Contador: 1
+Palavra: despertar | Contador: 1
+Palavra: dessa | Contador: 2
+Palavra: desse | Contador: 1
+Palavra: deste | Contador: 1
+Palavra: desviando | Contador: 1
+Palavra: detalhada | Contador: 1
+Palavra: detalhes | Contador: 3
+Palavra: determinado | Contador: 1
+Palavra: determinados | Contador: 1
+Palavra: devagar | Contador: 3
+Palavra: deve | Contador: 5
+Palavra: deve-se | Contador: 1
+Palavra: devem | Contador: 1
+Palavra: deverá | Contador: 2
+Palavra: dezembro | Contador: 1
+Palavra: dia | Contador: 3
+Palavra: diagrama | Contador: 1
+Palavra: diagramas | Contador: 1
+Palavra: diante | Contador: 3
+Palavra: dias | Contador: 1
+Palavra: dica | Contador: 2
+Palavra: dicas | Contador: 4
+Palavra: dicionários | Contador: 1
+Palavra: diferentes | Contador: 2
+Palavra: dificuldade | Contador: 1
+Palavra: difíceis | Contador: 1
+Palavra: disponíveis | Contador: 2
+Palavra: disponível | Contador: 1
+Palavra: dispositivo | Contador: 1
+Palavra: disse | Contador: 1
+Palavra: disso | Contador: 1
+Palavra: distraindo | Contador: 1
+Palavra: distrair | Contador: 1
+Palavra: dito | Contador: 3
+Palavra: dividida | Contador: 1
+Palavra: dizer | Contador: 3
+Palavra: dois | Contador: 1
+Palavra: domínio | Contador: 1
+Palavra: doutorado | Contador: 2
+Palavra: duas | Contador: 2
+Palavra: durante | Contador: 7
+Palavra: duração | Contador: 1
+Palavra: dá | Contador: 2
+Palavra: dúvidas | Contador: 1
+Palavra: eficiente | Contador: 1
+Palavra: elaboração | Contador: 2
+Palavra: elas | Contador: 1
+Palavra: ele | Contador: 2
+Palavra: eliminados | Contador: 1
+Palavra: embaraçar | Contador: 1
+Palavra: embrapa | Contador: 1
+Palavra: empregado | Contador: 1
+Palavra: encare | Contador: 1
+Palavra: enfocamos | Contador: 1
+Palavra: enriquece | Contador: 1
+Palavra: ensaia | Contador: 1
+Palavra: ensaiam | Contador: 1
+Palavra: ensaie | Contador: 1
+Palavra: ensaio | Contador: 1
+Palavra: entanto | Contador: 2
+Palavra: entendimento | Contador: 1
+Palavra: entonação | Contador: 2
+Palavra: então | Contador: 1
+Palavra: envolve | Contador: 1
+Palavra: envolvidas | Contador: 1
+Palavra: equipamentos | Contador: 1
+Palavra: errada | Contador: 1
+Palavra: errado | Contador: 1
+Palavra: especialista | Contador: 1
+Palavra: espectador | Contador: 1
+Palavra: espectadores | Contador: 3
+Palavra: esqueça | Contador: 1
+Palavra: essa | Contador: 1
+Palavra: essas | Contador: 3
+Palavra: esse | Contador: 4
+Palavra: esta | Contador: 1
+Palavra: estamos | Contador: 1
+Palavra: este | Contador: 1
+Palavra: estiver | Contador: 1
+Palavra: estivesse | Contador: 2
+Palavra: está | Contador: 5
+Palavra: estático | Contador: 1
+Palavra: estão | Contador: 3
+Palavra: etapa | Contador: 3
+Palavra: etapas | Contador: 3
+Palavra: etc | Contador: 1
+Palavra: evento | Contador: 4
+Palavra: eventos | Contador: 4
+Palavra: eventuais | Contador: 1
+Palavra: evita | Contador: 2
+Palavra: evitados | Contador: 1
+Palavra: evitando | Contador: 1
+Palavra: evite | Contador: 3
+Palavra: exagere | Contador: 2
+Palavra: excessivo | Contador: 1
+Palavra: exemplo | Contador: 2
+Palavra: exercer | Contador: 1
+Palavra: exibição | Contador: 1
+Palavra: exige | Contador: 1
+Palavra: exigem | Contador: 1
+Palavra: existem | Contador: 2
+Palavra: experientes | Contador: 1
+Palavra: experiência | Contador: 1
+Palavra: explicando | Contador: 1
+Palavra: explicar | Contador: 2
+Palavra: explique | Contador: 2
+Palavra: exposição | Contador: 1
+Palavra: expressões | Contador: 2
+Palavra: extrema | Contador: 2
+Palavra: exímias | Contador: 1
+Palavra: fala | Contador: 3
+Palavra: falando | Contador: 2
+Palavra: falar | Contador: 6
+Palavra: falas | Contador: 1
+Palavra: fale | Contador: 2
+Palavra: familiariza | Contador: 1
+Palavra: faz | Contador: 2
+Palavra: fazer | Contador: 3
+Palavra: faça | Contador: 1
+Palavra: feita | Contador: 2
+Palavra: feito | Contador: 1
+Palavra: fica | Contador: 1
+Palavra: fig | Contador: 1
+Palavra: figura | Contador: 1
+Palavra: fim | Contador: 3
+Palavra: final | Contador: 2
+Palavra: finalizar | Contador: 1
+Palavra: fique | Contador: 3
+Palavra: firmeza | Contador: 1
+Palavra: flui | Contador: 1
+Palavra: foi | Contador: 2
+Palavra: for | Contador: 1
+Palavra: forma | Contador: 11
+Palavra: formal | Contador: 2
+Palavra: formalidade | Contador: 2
+Palavra: frase | Contador: 1
+Palavra: frases | Contador: 1
+Palavra: frente | Contador: 1
+Palavra: frequentemente | Contador: 1
+Palavra: friozinho | Contador: 1
+Palavra: front | Contador: 1
+Palavra: funcionando | Contador: 1
+Palavra: fácil | Contador: 1
+Palavra: gallo | Contador: 2
+Palavra: gasto | Contador: 3
+Palavra: geral | Contador: 1
+Palavra: geralmente | Contador: 2
+Palavra: graduação | Contador: 1
+Palavra: gravação | Contador: 1
+Palavra: great | Contador: 1
+Palavra: grupo | Contador: 1
+Palavra: gráficos | Contador: 1
+Palavra: gírias | Contador: 1
+Palavra: habilidades | Contador: 1
+Palavra: harmônica | Contador: 1
+Palavra: hora | Contador: 4
+Palavra: horas | Contador: 1
+Palavra: horário | Contador: 2
+Palavra: how | Contador: 1
+Palavra: há | Contador: 2
+Palavra: hábil | Contador: 1
+Palavra: icmc | Contador: 1
+Palavra: ideia | Contador: 1
+Palavra: identificar | Contador: 1
+Palavra: idioma | Contador: 1
+Palavra: idiomas | Contador: 1
+Palavra: idéia | Contador: 3
+Palavra: idéias | Contador: 1
+Palavra: ihc | Contador: 1
+Palavra: imagine | Contador: 1
+Palavra: importante | Contador: 9
+Palavra: importe | Contador: 1
+Palavra: importância | Contador: 2
+Palavra: in | Contador: 1
+Palavra: inclusive | Contador: 1
+Palavra: incorretamente | Contador: 1
+Palavra: incorretas | Contador: 1
+Palavra: independente | Contador: 1
+Palavra: indicado | Contador: 1
+Palavra: indicando | Contador: 1
+Palavra: indicar | Contador: 1
+Palavra: indique | Contador: 1
+Palavra: individualmente | Contador: 1
+Palavra: indústria | Contador: 1
+Palavra: informática | Contador: 1
+Palavra: iniciais | Contador: 1
+Palavra: inicie | Contador: 1
+Palavra: insanely | Contador: 1
+Palavra: inspiração | Contador: 1
+Palavra: instituição | Contador: 1
+Palavra: instituto | Contador: 1
+Palavra: interação | Contador: 1
+Palavra: interessante | Contador: 2
+Palavra: interessantes | Contador: 1
+Palavra: internacionais | Contador: 1
+Palavra: interrompendo-o | Contador: 1
+Palavra: intimidado | Contador: 1
+Palavra: início | Contador: 1
+Palavra: inúmeras | Contador: 1
+Palavra: isso | Contador: 5
+Palavra: j | Contador: 2
+Palavra: jobs | Contador: 2
+Palavra: josé | Contador: 1
+Palavra: jovem | Contador: 1
+Palavra: já | Contador: 2
+Palavra: l | Contador: 1
+Palavra: lado | Contador: 3
+Palavra: lembrar | Contador: 1
+Palavra: lembre-se | Contador: 2
+Palavra: levando | Contador: 1
+Palavra: leve | Contador: 1
+Palavra: lhe | Contador: 1
+Palavra: limite | Contador: 2
+Palavra: linguagem | Contador: 1
+Palavra: livro | Contador: 1
+Palavra: local | Contador: 3
+Palavra: localidades | Contador: 1
+Palavra: longas | Contador: 1
+Palavra: lousas | Contador: 1
+Palavra: luciana | Contador: 2
+Palavra: m | Contador: 1
+Palavra: maioria | Contador: 3
+Palavra: mais | Contador: 18
+Palavra: maneira | Contador: 1
+Palavra: manifestarmos | Contador: 1
+Palavra: mantenha | Contador: 2
+Palavra: manter | Contador: 2
+Palavra: manuseio | Contador: 1
+Palavra: marcam | Contador: 1
+Palavra: marcar | Contador: 1
+Palavra: mas | Contador: 8
+Palavra: matemáticas | Contador: 1
+Palavra: material | Contador: 2
+Palavra: meio | Contador: 1
+Palavra: melhor | Contador: 7
+Palavra: melhorar | Contador: 2
+Palavra: menos | Contador: 3
+Palavra: mente | Contador: 1
+Palavra: mercado | Contador: 1
+Palavra: mesmas | Contador: 1
+Palavra: mesmo | Contador: 6
+Palavra: mestrado | Contador: 1
+Palavra: minutos | Contador: 1
+Palavra: momento | Contador: 2
+Palavra: mostra | Contador: 1
+Palavra: mostrar | Contador: 1
+Palavra: mostre-se | Contador: 1
+Palavra: motivar | Contador: 1
+Palavra: motivação | Contador: 1
+Palavra: movimento | Contador: 1
+Palavra: movimentos | Contador: 1
+Palavra: mudanças | Contador: 1
+Palavra: muitas | Contador: 3
+Palavra: muito | Contador: 10
+Palavra: munido | Contador: 1
+Palavra: mãos | Contador: 1
+Palavra: móveis | Contador: 1
+Palavra: n3 | Contador: 1
+Palavra: nada | Contador: 1
+Palavra: naturais | Contador: 1
+Palavra: naturalmente | Contador: 1
+Palavra: necessárias | Contador: 1
+Palavra: necessário | Contador: 5
+Palavra: necessários | Contador: 1
+Palavra: negativos | Contador: 1
+Palavra: negociar | Contador: 1
+Palavra: nem | Contador: 1
+Palavra: nesse | Contador: 3
+Palavra: nesses | Contador: 1
+Palavra: neste | Contador: 1
+Palavra: notificando | Contador: 1
+Palavra: novamente | Contador: 2
+Palavra: novos | Contador: 1
+Palavra: numa | Contador: 1
+Palavra: não | Contador: 21
+Palavra: número | Contador: 1
+Palavra: objetiva | Contador: 3
+Palavra: objetivo | Contador: 2
+Palavra: objeto | Contador: 1
+Palavra: observando | Contador: 1
+Palavra: observações | Contador: 1
+Palavra: obter | Contador: 1
+Palavra: ocorrer | Contador: 1
+Palavra: ocupando | Contador: 1
+Palavra: of | Contador: 2
+Palavra: oferecido | Contador: 1
+Palavra: olhando | Contador: 1
+Palavra: olhar | Contador: 1
+Palavra: olhe | Contador: 2
+Palavra: onde | Contador: 1
+Palavra: opinião | Contador: 1
+Palavra: oportunidades | Contador: 1
+Palavra: optam | Contador: 1
+Palavra: opção | Contador: 2
+Palavra: oral | Contador: 1
+Palavra: oralmente | Contador: 2
+Palavra: organizados | Contador: 1
+Palavra: orientadores | Contador: 1
+Palavra: orientar | Contador: 1
+Palavra: orientação | Contador: 1
+Palavra: outra | Contador: 2
+Palavra: outras | Contador: 1
+Palavra: outro | Contador: 3
+Palavra: ouvintes | Contador: 4
+Palavra: ouvir | Contador: 4
+Palavra: ouça | Contador: 1
+Palavra: p | Contador: 1
+Palavra: palavras | Contador: 3
+Palavra: palco | Contador: 1
+Palavra: papel | Contador: 1
+Palavra: para | Contador: 50
+Palavra: parte | Contador: 1
+Palavra: participam | Contador: 1
+Palavra: passar | Contador: 2
+Palavra: passos | Contador: 1
+Palavra: paulo-usp | Contador: 1
+Palavra: pede | Contador: 1
+Palavra: pela | Contador: 1
+Palavra: pelas | Contador: 1
+Palavra: pelo | Contador: 1
+Palavra: pensar | Contador: 2
+Palavra: pequenos | Contador: 1
+Palavra: perca | Contador: 1
+Palavra: percebe | Contador: 1
+Palavra: perceber | Contador: 3
+Palavra: perdendo | Contador: 1
+Palavra: performance | Contador: 1
+Palavra: perguntas | Contador: 2
+Palavra: pesquisador | Contador: 1
+Palavra: pesquisadora | Contador: 1
+Palavra: pessoa | Contador: 2
+Palavra: pessoas | Contador: 3
+Palavra: piadas | Contador: 1
+Palavra: planeja | Contador: 1
+Palavra: planejado | Contador: 1
+Palavra: platéia | Contador: 3
+Palavra: pode | Contador: 3
+Palavra: pode-se | Contador: 3
+Palavra: podem | Contador: 5
+Palavra: podem-se | Contador: 2
+Palavra: podemos | Contador: 1
+Palavra: ponto | Contador: 1
+Palavra: pontos | Contador: 1
+Palavra: por | Contador: 5
+Palavra: portanto | Contador: 1
+Palavra: portar | Contador: 1
+Palavra: português | Contador: 1
+Palavra: positivo | Contador: 1
+Palavra: positivos | Contador: 1
+Palavra: possa | Contador: 1
+Palavra: possam | Contador: 1
+Palavra: possibilidades | Contador: 1
+Palavra: possibilita | Contador: 1
+Palavra: possível | Contador: 2
+Palavra: postura | Contador: 2
+Palavra: pouco | Contador: 1
+Palavra: pratica | Contador: 1
+Palavra: praticar | Contador: 1
+Palavra: prazo | Contador: 1
+Palavra: precisa | Contador: 1
+Palavra: precisam | Contador: 1
+Palavra: preciso | Contador: 4
+Palavra: prende-se | Contador: 1
+Palavra: prender | Contador: 2
+Palavra: preocupar | Contador: 1
+Palavra: preparado | Contador: 1
+Palavra: preparar | Contador: 4
+Palavra: preparar-se | Contador: 2
+Palavra: preparação | Contador: 6
+Palavra: preparou | Contador: 1
+Palavra: presentation | Contador: 2
+Palavra: presentes | Contador: 1
+Palavra: pressupõe | Contador: 1
+Palavra: previamente | Contador: 2
+Palavra: previsto | Contador: 1
+Palavra: primeira | Contador: 2
+Palavra: primeiro | Contador: 2
+Palavra: principais | Contador: 1
+Palavra: principal | Contador: 1
+Palavra: priorizar | Contador: 1
+Palavra: problema | Contador: 1
+Palavra: problemas | Contador: 1
+Palavra: procurando | Contador: 1
+Palavra: procure | Contador: 8
+Palavra: produzir | Contador: 1
+Palavra: professores | Contador: 1
+Palavra: profissional | Contador: 1
+Palavra: programa | Contador: 1
+Palavra: programar | Contador: 1
+Palavra: projetado | Contador: 1
+Palavra: projetor | Contador: 1
+Palavra: projetos | Contador: 1
+Palavra: projetoscontratos | Contador: 1
+Palavra: prolixo | Contador: 1
+Palavra: prontos | Contador: 2
+Palavra: pronunciar | Contador: 1
+Palavra: pronuncie | Contador: 1
+Palavra: pronunciou | Contador: 1
+Palavra: pronúncia | Contador: 2
+Palavra: pronúncias | Contador: 1
+Palavra: providenciar | Contador: 1
+Palavra: prática | Contador: 5
+Palavra: práticas | Contador: 1
+Palavra: prévia | Contador: 4
+Palavra: prévio | Contador: 1
+Palavra: pós-graduação | Contador: 1
+Palavra: público | Contador: 2
+Palavra: qual | Contador: 2
+Palavra: qualidade | Contador: 1
+Palavra: qualidades | Contador: 1
+Palavra: qualificação | Contador: 1
+Palavra: qualquer | Contador: 3
+Palavra: quando | Contador: 4
+Palavra: quanto | Contador: 5
+Palavra: que | Contador: 46
+Palavra: questões | Contador: 2
+Palavra: quão | Contador: 1
+Palavra: rapidamente | Contador: 1
+Palavra: receber | Contador: 1
+Palavra: recomendado | Contador: 1
+Palavra: recomendações | Contador: 1
+Palavra: recorra | Contador: 1
+Palavra: recurso | Contador: 1
+Palavra: recursos | Contador: 6
+Palavra: refletir | Contador: 1
+Palavra: reforçamos | Contador: 1
+Palavra: regras | Contador: 3
+Palavra: relato | Contador: 1
+Palavra: relevantes | Contador: 1
+Palavra: remoto | Contador: 1
+Palavra: repetitivas | Contador: 1
+Palavra: repetitivos | Contador: 1
+Palavra: reposta | Contador: 2
+Palavra: representa | Contador: 1
+Palavra: respeitando | Contador: 2
+Palavra: respeito | Contador: 1
+Palavra: responder | Contador: 1
+Palavra: responsáveis | Contador: 1
+Palavra: restante | Contador: 2
+Palavra: resultado | Contador: 1
+Palavra: retorno | Contador: 1
+Palavra: retroceder | Contador: 1
+Palavra: reunião | Contador: 1
+Palavra: reuniões | Contador: 1
+Palavra: rigorosos | Contador: 1
+Palavra: ritmo | Contador: 4
+Palavra: romani | Contador: 2
+Palavra: ruim | Contador: 1
+Palavra: s | Contador: 2
+Palavra: sabe | Contador: 1
+Palavra: saber | Contador: 2
+Palavra: saia | Contador: 1
+Palavra: sair | Contador: 1
+Palavra: sbc-horizontes | Contador: 2
+Palavra: se | Contador: 29
+Palavra: secrets | Contador: 2
+Palavra: segunda | Contador: 1
+Palavra: segundo | Contador: 2
+Palavra: segurança | Contador: 1
+Palavra: seguro | Contador: 2
+Palavra: seja | Contador: 7
+Palavra: sem | Contador: 1
+Palavra: seminários | Contador: 1
+Palavra: sempre | Contador: 6
+Palavra: sendo | Contador: 4
+Palavra: sequência | Contador: 1
+Palavra: ser | Contador: 16
+Palavra: será | Contador: 2
+Palavra: sessão | Contador: 3
+Palavra: sessões | Contador: 1
+Palavra: seu | Contador: 5
+Palavra: seus | Contador: 6
+Palavra: seção | Contador: 1
+Palavra: show | Contador: 1
+Palavra: si | Contador: 1
+Palavra: simples | Contador: 1
+Palavra: simpósio | Contador: 1
+Palavra: situações | Contador: 1
+Palavra: slide | Contador: 3
+Palavra: slides | Contador: 17
+Palavra: sobre | Contador: 5
+Palavra: softwares | Contador: 3
+Palavra: sotaques | Contador: 1
+Palavra: sozinho | Contador: 4
+Palavra: steve | Contador: 2
+Palavra: sua | Contador: 16
+Palavra: suas | Contador: 2
+Palavra: subir | Contador: 1
+Palavra: sucesso | Contador: 5
+Palavra: suficiente | Contador: 1
+Palavra: sugestão | Contador: 1
+Palavra: são | Contador: 9
+Palavra: sério | Contador: 1
+Palavra: talento | Contador: 1
+Palavra: também | Contador: 5
+Palavra: tanto | Contador: 3
+Palavra: tarefa | Contador: 1
+Palavra: tarefas | Contador: 2
+Palavra: tela | Contador: 2
+Palavra: tem | Contador: 6
+Palavra: tempo | Contador: 21
+Palavra: tenha | Contador: 2
+Palavra: tente | Contador: 2
+Palavra: ter | Contador: 4
+Palavra: terá | Contador: 2
+Palavra: teste | Contador: 1
+Palavra: texto | Contador: 1
+Palavra: the | Contador: 2
+Palavra: tipo | Contador: 2
+Palavra: tirar | Contador: 1
+Palavra: tiver | Contador: 1
+Palavra: to | Contador: 1
+Palavra: toda | Contador: 2
+Palavra: todas | Contador: 4
+Palavra: todo | Contador: 3
+Palavra: todos | Contador: 4
+Palavra: tomando | Contador: 2
+Palavra: tomar | Contador: 1
+Palavra: tornando | Contador: 1
+Palavra: tornar | Contador: 3
+Palavra: tornar-se | Contador: 1
+Palavra: total | Contador: 1
+Palavra: trabalho | Contador: 15
+Palavra: trabalhos | Contador: 3
+Palavra: trabalhosa | Contador: 1
+Palavra: traina | Contador: 1
+Palavra: tranquilamente | Contador: 2
+Palavra: tranquilidade | Contador: 1
+Palavra: tranquilo | Contador: 1
+Palavra: transição | Contador: 2
+Palavra: transmite | Contador: 1
+Palavra: transmitir | Contador: 2
+Palavra: transpiração | Contador: 1
+Palavra: trataremos | Contador: 1
+Palavra: treinadas | Contador: 1
+Palavra: treinado | Contador: 1
+Palavra: treinando | Contador: 1
+Palavra: treinar | Contador: 4
+Palavra: treine | Contador: 3
+Palavra: treino | Contador: 6
+Palavra: treinou | Contador: 1
+Palavra: tudo | Contador: 8
+Palavra: tão | Contador: 1
+Palavra: técnicas | Contador: 1
+Palavra: têm | Contador: 2
+Palavra: uma | Contador: 4
+Palavra: universidade | Contador: 1
+Palavra: usadas | Contador: 1
+Palavra: usado | Contador: 1
+Palavra: usados | Contador: 1
+Palavra: usar | Contador: 3
+Palavra: use | Contador: 4
+Palavra: uso | Contador: 1
+Palavra: usá-lo | Contador: 1
+Palavra: usá-los | Contador: 1
+Palavra: utilizada | Contador: 1
+Palavra: utilizados | Contador: 1
+Palavra: v2 | Contador: 1
+Palavra: valorizar | Contador: 1
+Palavra: vamos | Contador: 2
+Palavra: veja | Contador: 2
+Palavra: verdade | Contador: 1
+Palavra: verdadeira | Contador: 1
+Palavra: verificando | Contador: 1
+Palavra: verificar | Contador: 1
+Palavra: vestir-se | Contador: 1
+Palavra: vez | Contador: 3
+Palavra: vezes | Contador: 4
+Palavra: vida | Contador: 1
+Palavra: vier | Contador: 1
+Palavra: visitas | Contador: 1
+Palavra: vocabulário | Contador: 1
+Palavra: você | Contador: 4
+Palavra: voz | Contador: 3
+Palavra: vá | Contador: 1
+Palavra: várias | Contador: 3
+Palavra: web | Contador: 1
+Palavra: www | Contador: 1
+Palavra: área | Contador: 1
+Palavra: áudio | Contador: 2
+Palavra: áudiovisuais | Contador: 1
+Palavra: é | Contador: 28
+Palavra: êxito | Contador: 1
+Palavra: único | Contador: 1
+Palavra: úteis | Contador: 1
+
+
+
+Stop word: a | Contador: 54
+Stop word: as | Contador: 12
+Stop word: da | Contador: 22
+Stop word: das | Contador: 4
+Stop word: de | Contador: 60
+Stop word: do | Contador: 17
+Stop word: dos | Contador: 13
+Stop word: e | Contador: 72
+Stop word: em | Contador: 25
+Stop word: na | Contador: 19
+Stop word: nas | Contador: 1
+Stop word: no | Contador: 10
+Stop word: nos | Contador: 5
+Stop word: o | Contador: 48
+Stop word: os | Contador: 20
+Stop word: ou | Contador: 17
+Stop word: um | Contador: 21
+Stop word: uma | Contador: 14
